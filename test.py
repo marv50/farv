@@ -2,6 +2,6 @@
 print("Hello Universe")
 
 #something
-print("Something")
+
 
 print("kodkjifs")
