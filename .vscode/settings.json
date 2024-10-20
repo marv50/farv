@@ -1,3 +1,3 @@
 {
-    "git.mergeEditor": true
+    "editor.rulers": [72, 79]
 }
